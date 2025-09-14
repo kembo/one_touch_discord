@@ -9,3 +9,11 @@
 </svelte:head>
 
 {@render children?.()}
+
+<style>
+	:global(.form-item) {
+    width: 100%;
+    font-size: 7vw;
+		padding: 5px 0;
+	}
+</style>
