@@ -62,7 +62,7 @@
 {/each}
 <br />
 <br />
-<a href="/setting">設定</a>
+<a href="./setting">設定</a>
 
 <style>
   button {

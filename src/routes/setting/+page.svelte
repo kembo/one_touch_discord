@@ -35,7 +35,7 @@
     localStorage.setItem("discord_webhook_name", webhookName);
     localStorage.setItem("discord_webhook_icon_url", webhookIconUrl);
     localStorage.setItem("discord_buttons", JSON.stringify(buttons.filter(b => b[0] !== "")));
-    window.location.href = "/";
+    window.location.href = "./";
   }
 </script>
 
